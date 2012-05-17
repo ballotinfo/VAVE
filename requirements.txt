@@ -1,0 +1,4 @@
+git+https://github.com/ahupp/python-magic.git
+rarfile
+lxml
+ipython
